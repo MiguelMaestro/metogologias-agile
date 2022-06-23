@@ -6,32 +6,29 @@ Fomentan respuestas rápidas y flexibles al cambio mediante la planificación ad
 - Equipo interfuncional autoorganizado
 - Entrega continua de producto de valor
 
-***Las personas, las relaciones y la comunicación es lo más importante de la metodología ágil.
-<center>
+***Las personas, las relaciones y la comunicación es lo más importante de la metodología ágil.***
 
-   ![Así si](images/tablero-kanban.png)
+<p align="center">
+  <img src="/images/tablero-kanban.png" alt:"Así si" />
+</p>
 
-</center>
 ### El corazón Ágil
 
-<center>
-
-   ![Corazón Ágil](images/corazon-agil.png)
-
-</center>
+<p align="center">
+  <img src="/images/corazon-agil.png" alt:"Corazón Ágil" />
+</p>
 
 > No podemos lograr una mejora contínua ni adaptarnos si no aprendemos mejores maneras de hacer las cosas. Quizá y para que quede más
 > claro, seguir aprendiendo sería el aire que infla el globo-corazón.
 
 ### El árbol de los valores ágiles
 
-<center>
+<p align="center">
+  <img src="/images/arbol-valores-agiles.png" alt:"El Árbol de valores ágiles" />
+</p>
 
-   ![El árbol de los valores ágiles](images/arbol-valores-agiles.png)
-
-</center>
-> Las relaciones y la colaboración entre las personas son la parte más importante de la ecuación. Por supuesto, no podemos dejar 
-> de buscar los resultados para el negocio. Al final es una relación simbiótica: el negocio tiene que crecer para que podamos 
+> Las relaciones y la colaboración entre las personas son la parte más importante de la ecuación. Por supuesto, no podemos dejar
+> de buscar los resultados para el negocio. Al final es una relación simbiótica: el negocio tiene que crecer para que podamos
 > seguir prendiendo e implementando nuevas tecnologías.
 
 ### ¿Por qué Ágil?
@@ -42,29 +39,26 @@ Es necesario entender cuáles son las características del software y porqué (y
 
 Agile mindset es una combinación de principios, creencias, y forma de pensar para responder al cambio en ambientes de incertidumbre, siendo capaces de adaptarse al mismo tiempo que avanzas.
 
-<center>
-
-   ![The power of an Agile Mindset](images/agile-mindset.png)
-
-</center>
+<p align="center">
+  <img src="/images/agile-mindset.png" alt:"The power of an Agile Mindset" />
+</p>
 
 ## Scrum
 
-<center>
+<p align="center">
+  <img src="/images/scrum.png" alt:"Scrum" />
+</p>
 
-   ![Scrum](images/scrum.png)
-
-</center>
+***
 
 # ¿Qué es un tablero Kanban?
 
 Un Tablero Kanban es una brillante herramienta visual que ofrece una visión general del estado actual del trabajo y simplifica la comunicación del equipo. También es un elemento fundamental del método Kanban, que ayuda a optimizar y mejorar continuamente cualquier proceso de negocios. Visualizar el trabajo en un tablero Kanban aumentará la productividad y eliminará el caos en tu lugar de trabajo.calidad y de manera más rápida.
 
-<center>
+<p align="center">
+  <img src="/images/tablero-kanban.png" alt:"Tablero Kanban" />
+</p>
 
-   ![Tablero KANBAN](images/tablero-kanban.png)
-
-</center>
 Kanban "La Idea en mantener el flujo y eliminar perdida". (<http://kanbantool.com/kanban-library/introduction> <http://virtualkanban.net>)
 
 ## ¿Cómo funciona un tablero Kanban?
@@ -75,13 +69,14 @@ Se utilizan diferentes colores de tarjetas para diferentes tipos de elementos de
 
 > Los tableros Kanban pierden su encanto si no son fisicos pero con el trabajo remoto...
 
+***
+
 ## Mejora continua - KAIZEN
 
 > KAIZEN en japones significa *cambio para ser mejor*
-<center>
 
-   ![Mejora continua](images/agile-mejora-continua.png)
-
-</center>
+<p align="center">
+  <img src="/images/agile-mejora-continua.png" alt:"Mejora continua" />
+</p>
 
 - Las tareas de mejora continua deben tener un responsable que se encarge ver que se está llevando todo a cabo.
