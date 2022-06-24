@@ -49,9 +49,13 @@ Agile mindset es una combinación de principios, creencias, y forma de pensar pa
   <img src="/images/scrum.png" alt:"Scrum" />
 </p>
 
+[Introducción a Scrum](docs/introduccion-scrum-agilpm.pdf)
+
+[Guia Scrum](docs/Scrum-Guide-Spanish-European.pdf)
+
 ***
 
-# ¿Qué es un tablero Kanban?
+## ¿Qué es un tablero Kanban?
 
 Un Tablero Kanban es una brillante herramienta visual que ofrece una visión general del estado actual del trabajo y simplifica la comunicación del equipo. También es un elemento fundamental del método Kanban, que ayuda a optimizar y mejorar continuamente cualquier proceso de negocios. Visualizar el trabajo en un tablero Kanban aumentará la productividad y eliminará el caos en tu lugar de trabajo.calidad y de manera más rápida.
 
@@ -60,6 +64,8 @@ Un Tablero Kanban es una brillante herramienta visual que ofrece una visión gen
 </p>
 
 Kanban "La Idea en mantener el flujo y eliminar perdida". (<http://kanbantool.com/kanban-library/introduction> <http://virtualkanban.net>)
+
+<https://kanbanize.com/es/recursos-de-kanban/primeros-pasos/que-es-kanban>
 
 ## ¿Cómo funciona un tablero Kanban?
 
